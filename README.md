@@ -2,19 +2,19 @@
 
 Formerly **Marshland Hunt**, from **Vexona Studios**.
 
-Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, or practice at the clay range. Play solo or with family on the same home network; clay duels support two players.
+Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, or practice at the clay range. Play solo or with family on the same home network; clay and hog-tower duels support two players.
 
-## Download version 1.6.0
+## Download version 1.7.0
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.6.0/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.6.0/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.6.0)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.7.0/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.7.0/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.7.0)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
 
-## New in 1.6.0
+## New in 1.7.0
 
-Walk up the new **Pasture Lookout** on the left of the hog farm for an elevated scoped view, then come down the same stairs. Reloads now use mechanical handling sounds, and the old reload-reminder beep is a soft tap. All family LAN players need **1.6.0** for the new farm layout.
+Choose **Hog tower duel** for a dedicated 1v1 LAN match. Two fixed towers overlook one shared hog field. First to 10 hogs wins; at three minutes, the higher score wins. Equal scores tie. Scoped rifles, live rival scores, rematches and solo tower warm-up are included. The original roaming hog farm and its climbable lookout remain available. Both players need **1.7.0**.
 
 ## Existing players
 
