@@ -4,19 +4,25 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, or practice at the clay range. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.8.0
+## Download version 1.8.1
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.8.0/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.8.0/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.8.0)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.8.1/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.8.1/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.8.1)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
 
-## New in 1.8.0
+## New in 1.8.1: graphics for slower computers
+
+The squirrel woods have a lighter **Low** preset: no falling leaves, drifting dust, footstep particles, shadows or reflections. Simpler tree meshes, water and ground details reduce rendering work while preserving the squirrels, playable branches and hunting rules. The 3D image scales down; menus and crosshairs stay sharp.
+
+**Auto** adjusts graphics when play stays slow and remembers the result on each computer. Open **Esc → Settings → Low** for an immediate change, or choose Auto. Medium and High also have a separate falling-leaves switch. Existing saves and manual Low/High choices are preserved.
+
+## Prairie Dog Lookout
 
 Choose **Prairie dog lookout** for a timed challenge at a covered shooting table. A loaded scoped rifle, twenty burrows and two minutes: watch for stirring dirt, then score as prairie dogs pop up and look around. Junior offers longer openings at nearer burrows; Classic is quicker and includes farther targets. The setting is open dry grassland, with original tan prairie dogs, tiny ears and dark tail tips.
 
-Play solo and keep a personal best under each hunter name, or choose **Host 1v1 LAN / Join 1v1 LAN**. The field is shared, every animal scores once, and the higher score at two minutes wins. Results include accuracy and quick replay. Both players need **1.8.0**. Hold right mouse to scope, left-click to shoot, R to reload, and wheel / Z to zoom.
+Play solo and keep a personal best under each hunter name, or choose **Host 1v1 LAN / Join 1v1 LAN**. The field is shared, every animal scores once, and the higher score at two minutes wins. Results include accuracy and quick replay. Both players should update to **1.8.1**. Hold right mouse to scope, left-click to shoot, R to reload, and wheel / Z to zoom.
 
 **Hog Tower Duel** also remains available: two fixed towers, a shared field, first to 10 hogs or the higher score after three minutes. The original roaming hunts, climbable farm lookout and clay range remain available.
 ## Existing players
