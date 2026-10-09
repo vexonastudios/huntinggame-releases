@@ -1,21 +1,23 @@
-# Marshland Hunt — Windows downloads
+# Critter County Hunting — Windows downloads
 
-Family hunting adventures with duck, squirrel and hog outings, plus a clay-pigeon range. Play solo or together on your home network.
+Formerly **Marshland Hunt**, from **Vexona Studios**.
 
-## Download version 1.5.0
+Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, or practice at the clay range. Play solo or with family on the same home network; clay duels support two players.
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.5.0/MarshlandHunt-Setup.exe)
-- [Portable ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.5.0/MarshlandHunt-Windows.zip)
-- [Release notes and checksums](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.5.0)
+## Download version 1.5.1
 
-The installer does not require administrator access. The Windows executables in this standalone release are not Authenticode signed. SHA-256 files are included with the release.
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.5.1/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.5.1/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.5.1)
 
-Version 1.5.0 introduces automatic updates. Existing 1.4.0 installations need one manual upgrade first. Open **Updates** in the game to check progress or turn automatic updates off. Playing offline still works.
+The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
 
-## Leaving the game
+## Existing players
 
-Press **Esc**, then **Quit to desktop**. **F11** switches full screen and windowed mode. **Alt+F4** also exits. Updates wait until the game closes; ordinary Quit does not reopen it.
+Version 1.5.0 can receive this release through its **Updates** screen. Your preferences, camp progress and clay records stay in the same save folder. Existing shortcut labels may keep the old name after an automatic EXE update; the new installer creates shortcuts with the new name. All family LAN players should use the same game version.
 
-All players in a LAN outing should use the same game version. Hunts support up to twelve players; clay duels support two. BodeeGuard catalog integration is being prepared separately.
+Press **Esc** for the exit menu, **F11** to leave full screen, or **Alt+F4** to quit. Gameplay and recorded voices work offline.
 
-This repository hosts Windows downloads and release notes. Game source is maintained separately.
+These are standalone Windows downloads with SHA-256 checksums. The Windows executables are not Authenticode signed. BodeeGuard managed installations use their own verification and parent controls; this standalone release does not claim managed-installation eligibility.
+
+This public repository contains player downloads only. Game source and production credentials are not published here.
