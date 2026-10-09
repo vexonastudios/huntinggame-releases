@@ -4,13 +4,17 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, or practice at the clay range. Play solo or with family on the same home network; clay duels support two players.
 
-## Download version 1.5.1
+## Download version 1.6.0
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.5.1/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.5.1/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.5.1)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.6.0/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.6.0/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.6.0)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.6.0
+
+Walk up the new **Pasture Lookout** on the left of the hog farm for an elevated scoped view, then come down the same stairs. Reloads now use mechanical handling sounds, and the old reload-reminder beep is a soft tap. All family LAN players need **1.6.0** for the new farm layout.
 
 ## Existing players
 
