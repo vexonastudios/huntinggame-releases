@@ -4,13 +4,17 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, practice at the clay range, or meet all four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.9.2
+## Download version 1.9.3
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.2/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.2/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.9.2)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.3/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.3/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.9.3)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.9.3: June's corrected voice
+
+June's original voice assignment turned out to be a male voice. All 29 of her recordings now use the verified Sarah Grace female voice, shared with Tess. Her own dialogue stays the same. Changing hunters also stops the previous character's voice, and stale queued lines cannot play as a different hunter.
 
 ## New in 1.9.2: retriever adventures
 
@@ -28,7 +32,7 @@ Choose a custom camp sign and earn a dog bed, achievement board and campfire. **
 
 **County roundup** combines ducks, squirrels, hogs and prairie dogs on one reserve with one timer and score. Explore the woods, pond, pasture and burrows. Press **1** for the shotgun or **2** for the scoped rifle; each keeps its own ammunition. Junior starts a two-minute co-op outing; Classic supports custom pacing and friendly competition. Deer hunting is planned for a later update.
 
-**Solo Shot Coach** explains accepted shots using actual projectile paths: high/low, left/right, too much or too little lead, intervening cover, or a prairie dog retreating. Its diagram refers to the nearest visible target. Coaching can be disabled in Settings and does not appear in multiplayer. All LAN players need **1.9.2**.
+**Solo Shot Coach** explains accepted shots using actual projectile paths: high/low, left/right, too much or too little lead, intervening cover, or a prairie dog retreating. Its diagram refers to the nearest visible target. Coaching can be disabled in Settings and does not appear in multiplayer. All LAN players need **1.9.3**.
 
 ## Automatic optimization and quicker prairie dogs
 
@@ -46,7 +50,7 @@ The squirrel woods have a lighter **Low** preset: no falling leaves, drifting du
 
 Choose **Prairie dog lookout** for a timed challenge at a covered shooting table. A loaded scoped rifle, twenty burrows and two minutes: watch for stirring dirt, then score as prairie dogs pop up and look around. Junior offers longer openings at nearer burrows; Classic is quicker and includes farther targets. The setting is open dry grassland, with original tan prairie dogs, tiny ears and dark tail tips.
 
-Play solo and keep a personal best under each hunter name, or choose **Host 1v1 LAN / Join 1v1 LAN**. The field is shared, every animal scores once, and the higher score at two minutes wins. Results include accuracy and quick replay. Both players should update to **1.9.2**. Hold right mouse to scope, left-click to shoot, R to reload, and wheel / Z to zoom.
+Play solo and keep a personal best under each hunter name, or choose **Host 1v1 LAN / Join 1v1 LAN**. The field is shared, every animal scores once, and the higher score at two minutes wins. Results include accuracy and quick replay. Both players should update to **1.9.3**. Hold right mouse to scope, left-click to shoot, R to reload, and wheel / Z to zoom.
 
 **Hog Tower Duel** also remains available: two fixed towers, a shared field, first to 10 hogs or the higher score after three minutes. The original roaming hunts, climbable farm lookout and clay range remain available.
 ## Existing players
