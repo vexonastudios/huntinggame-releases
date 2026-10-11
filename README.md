@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, practice at the clay range, or meet all four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.9.5
+## Download version 1.9.6
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.5/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.5/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.9.5)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.6/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.6/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.9.6)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.9.6: richer High landscapes
+
+Choose **Settings → Graphics → High** for textured soil and leaf litter, cupped fallen oak leaves, short wind-blown pasture grass, detailed foliage edges and bark, layered clouds and rolling distant ridges. Missouri hardwoods keep their bare November branches. The creek has softer flowing currents and the marsh gains finer ripples and shoreline highlights. The clay range and prairie lookout replace their blocky distant hills on High, and the activity pictures show the updated locations.
+
+The extra ground scenery is created only on High and released when switching down. Low and Medium keep their lighter paths. Auto continues to start at Medium and reduce quality when necessary. Saved hunters, dogs, voices, records, targets and multiplayer rules are preserved; versions 1.9.3 through 1.9.6 use the same LAN protocol.
 
 ## New in 1.9.5: graphics for different computers
 
@@ -18,7 +24,7 @@ The installer works for the current Windows user without administrator access. T
 
 **Auto** can step down to a smaller 3D image if a computer remains slow; menus, text and crosshairs stay sharp. Distant animation uses less CPU on Low and Medium, with full posing restored for nearby and magnified wildlife. Manual settings remain your choice. Open **Esc → Settings** to choose Auto, Low, Medium or High; **Recheck this computer** restarts Auto.
 
-Measured rendering workload fell by 57% for squirrel High and 43% for hog Low in fixed-view development-PC samples. These are fewer rendered primitives, not guaranteed frame rates on every computer. Saved hunters, dogs, progress, voices and controls are preserved. Versions 1.9.3 through 1.9.5 share the same LAN protocol.
+Measured rendering workload fell by 57% for squirrel High and 43% for hog Low in fixed-view development-PC samples. These are fewer rendered primitives, not guaranteed frame rates on every computer. Saved hunters, dogs, progress, voices and controls are preserved. Versions 1.9.3 through 1.9.6 share the same LAN protocol.
 
 ## New in 1.9.4: a new welcome to the county
 
@@ -46,7 +52,7 @@ Choose a custom camp sign and earn a dog bed, achievement board and campfire. **
 
 **County roundup** combines ducks, squirrels, hogs and prairie dogs on one reserve with one timer and score. Explore the woods, pond, pasture and burrows. Press **1** for the shotgun or **2** for the scoped rifle; each keeps its own ammunition. Junior starts a two-minute co-op outing; Classic supports custom pacing and friendly competition. Deer hunting is planned for a later update.
 
-**Solo Shot Coach** explains accepted shots using actual projectile paths: high/low, left/right, too much or too little lead, intervening cover, or a prairie dog retreating. Its diagram refers to the nearest visible target. Coaching can be disabled in Settings and does not appear in multiplayer. LAN players need compatible builds (**1.9.3 through 1.9.5**).
+**Solo Shot Coach** explains accepted shots using actual projectile paths: high/low, left/right, too much or too little lead, intervening cover, or a prairie dog retreating. Its diagram refers to the nearest visible target. Coaching can be disabled in Settings and does not appear in multiplayer. LAN players need compatible builds (**1.9.3 through 1.9.6**).
 
 ## Automatic optimization and quicker prairie dogs
 
@@ -64,7 +70,7 @@ The squirrel woods have a lighter **Low** preset: no falling leaves, drifting du
 
 Choose **Prairie dog lookout** for a timed challenge at a covered shooting table. A loaded scoped rifle, twenty burrows and two minutes: watch for stirring dirt, then score as prairie dogs pop up and look around. Junior offers longer openings at nearer burrows; Classic is quicker and includes farther targets. The setting is open dry grassland, with original tan prairie dogs, tiny ears and dark tail tips.
 
-Play solo and keep a personal best under each hunter name, or choose **Host 1v1 LAN / Join 1v1 LAN**. The field is shared, every animal scores once, and the higher score at two minutes wins. Results include accuracy and quick replay. Both players should update to **1.9.5**. Hold right mouse to scope, left-click to shoot, R to reload, and wheel / Z to zoom.
+Play solo and keep a personal best under each hunter name, or choose **Host 1v1 LAN / Join 1v1 LAN**. The field is shared, every animal scores once, and the higher score at two minutes wins. Results include accuracy and quick replay. Both players should update to **1.9.6**. Hold right mouse to scope, left-click to shoot, R to reload, and wheel / Z to zoom.
 
 **Hog Tower Duel** also remains available: two fixed towers, a shared field, first to 10 hogs or the higher score after three minutes. The original roaming hunts, climbable farm lookout and clay range remain available.
 ## Existing players
