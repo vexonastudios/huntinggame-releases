@@ -2,15 +2,24 @@
 
 Formerly **Marshland Hunt**, from **Vexona Studios**.
 
-Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, practice at the clay range, or meet all four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
+Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.9.6
+## Download version 1.10.0
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.6/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.9.6/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.9.6)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.0/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.0/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.0)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.0: Whitetail Hollow and rebuilt mallards
+
+- **Deer hunting:** November woods and meadow, hoofprint trails, rustling clues and a scoped rifle. Adult whitetails feed, listen, walk and bound into cover; movement, noise and wind affect their awareness.
+- **New mallards:** sculpted bodies, individual flight feathers, articulated wingbeats, banking, water landings and folded retrieval poses.
+- **Junior support:** gentler deer reactions and directional rustle captions.
+- **Graphics options:** both additions support Low, Medium, High and automatic performance settings, with reduced wildlife geometry at distance.
+
+**Family LAN:** everyone must update to **1.10.0** to play together. Older versions use an incompatible wildlife protocol. Profiles and progress are preserved. Press **Esc** for the menu or **F11** to switch to a window.
 
 ## New in 1.9.6: richer High landscapes
 
