@@ -4,13 +4,21 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.1
+## Download version 1.10.2
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.1/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.1/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.1)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.2/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.2/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.2)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.2: wary deer and a smoother gallop
+
+Deer now flee when approached closely from any direction, keep escaping while pursued, steer around trunks and map edges, and spread apart instead of stacking at one cover point. Junior still has gentler awareness, but deer can outrun a sprinting hunter.
+
+Running now uses coordinated hoof contacts, hind-leg push-off, suspension and landing, with forward neck posture and a raised tail. Hooves stay planted during ground contact and legs keep their correct lengths. Nearby-tree queries keep the improved escape behavior inexpensive.
+
+Update all family computers for the revised behavior and animation. Profiles, controls and the LAN protocol are unchanged.
 
 ## New in 1.10.1: clearer update downloads
 
@@ -25,7 +33,7 @@ An older installed copy needs to complete its update before it can display this 
 - **Junior support:** gentler deer reactions and directional rustle captions.
 - **Graphics options:** both additions support Low, Medium, High and automatic performance settings, with reduced wildlife geometry at distance.
 
-**Family LAN:** everyone needs **1.10.0 or 1.10.1** to play together. Older versions use an incompatible wildlife protocol. Profiles and progress are preserved. Press **Esc** for the menu or **F11** to switch to a window.
+**Family LAN:** everyone needs **1.10.0 or newer** to play together. Older versions use an incompatible wildlife protocol. Profiles and progress are preserved. Press **Esc** for the menu or **F11** to switch to a window.
 
 ## New in 1.9.6: richer High landscapes
 
