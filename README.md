@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.11.2
+## Download version 1.11.3
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.2/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.2/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.11.2)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.3/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.3/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.11.3)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.11.3: download time remaining
+
+Game updates now show approximate time remaining alongside the download bar, percentage, downloaded/total MB and speed. Estimates use recent download speed and settle after a short measurement period. Clear messages distinguish connecting, connection stalls, file verification and ready-to-install. You can keep playing and reopen the screen without losing progress.
+
+**Still running 1.10.0?** That older copy predates the progress bar. Let it finish downloading, then choose **Restart & update**, or quit and reopen the game. The improved interface is available after installation for future downloads. Gameplay and saves are unchanged; this patch remains LAN-compatible with 1.11.0–1.11.2.
 
 ## New in 1.11.2: smoother bow handling
 
