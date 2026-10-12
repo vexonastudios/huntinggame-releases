@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.6
+## Download version 1.10.7
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.6/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.6/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.6)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.7/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.7/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.7)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.7: faster clay targets
+
+Clays launch from the visible trap, travel much faster and follow a clear rising-and-falling arc. They reach the ground in roughly 2.6–3.1 seconds instead of floating for 4.8–6 seconds. Quicker outgoing and crossing throws reward tracking and leading; discs spin steadily instead of tumbling. Junior retains slower horizontal travel and a slightly higher arc.
+
+Solo and 1v1 keep ten matching throws, one shot per target and automatic reloads. The harder course starts separate personal bests; earlier bests remain visible in the record book. **Update every LAN computer to 1.10.7** for the new course and records. Profiles, controls and install/update locations are preserved.
 
 ## New in 1.10.6: live dog coat previews
 
