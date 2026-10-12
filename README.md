@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.12.0
+## Download version 1.12.1
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.0/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.0/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.0)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.1/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.1/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.1)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.12.1: solid bow sight mounting
+
+The bow sight now has a deeper protective housing that stays visible from the side, including while lowering the bow and nocking. A two-bolt mounting plate joins it to the riser, and all three pins attach to a solid support inside the housing. The whole assembly stays fixed throughout bow animations.
+
+Sight alignment, arrow physics, controls and progress are unchanged. This visual patch remains LAN-compatible with 1.12.0.
 
 ## New in 1.12.0: bow alignment and visible arrows
 
