@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.12.3
+## Download version 1.12.4
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.3/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.3/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.3)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.4/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.4/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.4)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.12.4: follow every bow shot
+
+Your arrows now leave a bright cyan-and-white streak in **Deer Hunt, Hog Hunt, County Roundup and Bow Practice**. A moving bright tip makes flight easier to follow, and the path remains for two seconds after impact before fading. It is readable on High and Low graphics.
+
+The streak follows the travelled path, including launch wind and drop, ends at the original contact point and respects cover. It does not follow a wounded animal. Delayed multiplayer snapshots still show where the shot went. Arrow physics, damage, scoring and saves are unchanged; LAN compatibility with 1.12.0–1.12.3 is preserved.
 
 ## New in 1.12.3: music at the family camp
 
