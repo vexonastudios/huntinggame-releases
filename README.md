@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.2
+## Download version 1.10.3
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.2/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.2/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.2)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.3/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.3/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.3)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.3: faster ducks and fewer easy doubles
+
+Ducks arrive in separated lanes, take off at staggered times and fan out into faster individual paths with different heights and banking turns. Tighter body hit detection and a narrower duck-hunt pellet pattern reward tracking and leading a bird. Genuine doubles still count when pellets reach two birds.
+
+Junior keeps slower flight and modest aim forgiveness. County Roundup ducks share the improved flight and hit detection. Clay courses, other weapon settings and graphics budgets retain their existing rules. Update the host to use the revised duck rules; updating all family computers is recommended.
 
 ## New in 1.10.2: wary deer and a smoother gallop
 
