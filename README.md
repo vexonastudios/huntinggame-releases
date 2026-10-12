@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.5
+## Download version 1.10.6
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.5/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.5/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.5)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.6/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.6/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.6)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.6: live dog coat previews
+
+Choosing Golden, Cream golden or Red golden now changes the preview immediately. Cream and red have clearer, distinct tones while preserving the fur texture and facial details. Select **Save buddy & camp sign** to keep the coat for your profile, camp and roaming hunts. Previewing alone does not overwrite your saved choice.
+
+The preview reuses the existing dog model, animation and cached materials. Reduced-detail companions retain the chosen coat. Profiles, progress, controls and LAN compatibility are preserved.
 
 ## New in 1.10.5: the right load for hogs
 
