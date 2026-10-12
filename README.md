@@ -2,15 +2,21 @@
 
 Formerly **Marshland Hunt**, from **Vexona Studios**.
 
-Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
+Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.10.9
+## Download version 1.11.0
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.9/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.9/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.9)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.0/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.0/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.11.0)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.11.0: compound bow and Bow Practice
+
+Choose the compound bow in Deer Hunt, Hog Hunt or County Roundup, or press **3** during the outing. Hold right mouse to aim, hold left mouse to draw, then release at full draw. Wheel / Z chooses a 20 / 30 / 40 metre sight. The bow has animated cams and string, a fixed wrapped grip, an extended bow arm, and a draw hand anchored beside the jaw. Arrows have visible flight, gravity and wind drift; twelve hunting arrows can be recovered with E after landing. Large-game hits retain the existing chest versus follow-up rules.
+
+The new **Bow Practice** activity offers ten arrows, three distances, a three-minute timer, solo records and two matched LAN lanes. Junior draws faster. **Update every LAN computer to 1.11.0** for shared arrow flight, draw and scoring. Profiles, progress, controls and install/update locations are preserved.
 
 ## New in 1.10.9: rifle shot placement and follow-ups
 
