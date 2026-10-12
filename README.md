@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.0
+## Download version 1.10.1
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.0/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.0/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.0)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.1/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.1/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.1)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.1: clearer update downloads
+
+The Updates page now shows a gold progress bar, percentage, downloaded/total MB and live download speed. Separate messages explain preparation, connection stalls, file verification and readiness. Verification runs in the background so the game stays responsive. Leave the page to keep playing and return for current progress.
+
+An older installed copy needs to complete its update before it can display this interface. **Versions 1.10.0 and 1.10.1 can play together on family LAN.**
 
 ## New in 1.10.0: Whitetail Hollow and rebuilt mallards
 
@@ -19,7 +25,7 @@ The installer works for the current Windows user without administrator access. T
 - **Junior support:** gentler deer reactions and directional rustle captions.
 - **Graphics options:** both additions support Low, Medium, High and automatic performance settings, with reduced wildlife geometry at distance.
 
-**Family LAN:** everyone must update to **1.10.0** to play together. Older versions use an incompatible wildlife protocol. Profiles and progress are preserved. Press **Esc** for the menu or **F11** to switch to a window.
+**Family LAN:** everyone needs **1.10.0 or 1.10.1** to play together. Older versions use an incompatible wildlife protocol. Profiles and progress are preserved. Press **Esc** for the menu or **F11** to switch to a window.
 
 ## New in 1.9.6: richer High landscapes
 
