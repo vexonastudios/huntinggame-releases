@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.3
+## Download version 1.10.4
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.3/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.3/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.3)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.4/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.4/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.4)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.4: move around your hog tower
+
+Hog Tower Duel now lets you walk and run around the usable deck instead of locking your hunter to one spot. Move closer to the rail or shift sideways for a clearer view, then stop to steady the rifle. Visible rails, corner posts and a closed rear gate keep each hunter inside their assigned tower. Movement hints and wooden footsteps are included. The original hog farm keeps its open staircase.
+
+**Update every LAN computer to 1.10.4.** Older clients disable tower movement, so this release uses a new multiplayer protocol. The first-to-10 / three-minute rules and saved progress are unchanged. Esc opens the menu and F11 switches to a window.
 
 ## New in 1.10.3: faster ducks and fewer easy doubles
 
