@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.12.2
+## Download version 1.12.3
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.2/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.2/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.2)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.3/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.3/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.3)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.12.3: music at the family camp
+
+The opening wind loop is replaced by **Home in Critter County**, a warm acoustic instrumental generated with **ElevenLabs Music v2**. The quiet 93-second loop continues through menus and weapon selection, fades into environmental sounds when hunting starts, and resumes when you return.
+
+Adjust **Settings → Menu music** independently of voices, wildlife and effects. The music is bundled and plays offline. Gameplay, saves and LAN compatibility with 1.12.0–1.12.2 are unchanged.
 
 ## New in 1.12.2: stay scoped, choose your bow and follow arrows
 
