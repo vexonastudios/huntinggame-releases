@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.8
+## Download version 1.10.9
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.8/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.8/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.8)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.9/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.9/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.9)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.9: rifle shot placement and follow-ups
+
+Rifle hits now distinguish the chest, legs and outer body of deer and hogs. A first leg or outer-body hit leaves the same animal alive, startled and fleeing; a second confirmed rifle hit completes the takedown. A clear chest path can still collect it with one shot. Each contact counts for accuracy, while the collection point waits until the animal goes down.
+
+The rule applies in Deer Hunting, Hog Hunting, County Roundup and Hog Tower Duel, at both paces. Notices and Solo Shot Coach explain **Leg hit / Body hit — follow up**; coaching sits below the wind panel. **Update every LAN computer to 1.10.9** for matching damage rules and feedback. Profiles, progress, controls and install/update locations are preserved.
 
 ## New in 1.10.8: squirrel retrieves
 
