@@ -4,13 +4,21 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.12.1
+## Download version 1.12.2
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.1/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.1/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.1)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.2/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.2/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.2)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.12.2: stay scoped, choose your bow and follow arrows
+
+Keep holding aim after a rifle shot to watch through the scope while the bolt cycles. The next shot still waits for the bolt; releasing aim, moving, jumping, reloading or opening a menu lowers the rifle normally.
+
+Deer Hunt, Hog Hunt and County Roundup now have large weapon buttons before starting. Choose **Compound bow**, then **Start outing**; the hunter preview and ammunition instructions show your selection. During a hunt, **3** selects bow and **2** selects rifle with default controls.
+
+Bow Practice shows a bright cyan path over the arrow's travelled arc and a marker at its actual impact. It holds for 1.25 seconds after landing, then fades over 0.65 seconds. It works on High and Low and with delayed multiplayer updates. Physical arrows stay in their targets. Physics, scoring, saves and LAN compatibility with 1.12.0/1.12.1 are unchanged.
 
 ## New in 1.12.1: solid bow sight mounting
 
