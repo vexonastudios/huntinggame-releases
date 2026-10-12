@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.11.3
+## Download version 1.12.0
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.3/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.11.3/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.11.3)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.0/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.0/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.0)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.12.0: bow alignment and visible arrows
+
+The right-handed bow now has its sight window left of the riser and its quiver on the opposite side. A solid sight housing, ivory/orange fletching, bright nocks and a brief motion streak make arrows easier to follow on High and Low graphics. Arrows remain embedded in targets, including the hay backing outside the scoring rings, and stay through the results screen.
+
+Release from **45% draw** for a weaker arrow that flies slower and drops farther. Full draw reaches maximum power; holding longer adds fatigue rather than speed. The 20 / 30 / 40 metre pins are calibrated for full draw. **Update every LAN computer to 1.12.0** for matching draw and flight rules. Profiles, progress and installation/update locations are preserved.
 
 ## New in 1.11.3: download time remaining
 
