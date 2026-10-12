@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.7
+## Download version 1.10.8
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.7/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.7/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.7)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.8/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.8/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.8)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.8: squirrel retrieves
+
+Your golden retriever now retrieves squirrels in Squirrel Hunt and County Roundup, as well as ducks. It waits for the squirrel to fall and settle, picks it up, carries it back with a relaxed tail, and places it beside the hunter who shot it. Ducks and squirrels share the retrieval queue, and the item keeps the right animal model and coat. Trunk-side pickups and woodland creek crossings are supported.
+
+Retrieval happens automatically with **Bring my dog on roaming hunts** enabled; each animal still scores once. **Update every LAN computer to 1.10.8** for the new retrieval presentation. Profiles, progress, controls and install/update locations are preserved.
 
 ## New in 1.10.7: faster clay targets
 
