@@ -4,13 +4,19 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog duels support two players.
 
-## Download version 1.10.4
+## Download version 1.10.5
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.4/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.4/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.4)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.5/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.10.5/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.10.5)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.10.5: the right load for hogs
+
+County Roundup's shotgun carries birdshot and can no longer collect hogs. Press **2** for the scoped rifle; **1** returns to the shotgun. Ducks and squirrels still use the shotgun normally. The HUD names the birdshot load and the rifle for hogs, and a contact gives one clear hint per shell. Solo Shot Coach explains the load instead of giving misleading aim advice.
+
+Update the host for the corrected scoring rules, and every family computer for the new labels and prompts. Saves, controls, separate weapon ammunition and LAN packet compatibility are preserved.
 
 ## New in 1.10.4: move around your hog tower
 
