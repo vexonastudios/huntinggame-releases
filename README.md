@@ -4,13 +4,21 @@ Formerly **Marshland Hunt**, from **Vexona Studios**.
 
 Play duck hunting, explore the Missouri squirrel woods, hunt feral hogs on the farm, stalk whitetails at Whitetail Hollow, practice at the clay or archery range, or meet four huntable species in County Roundup. Play solo or with family on the same home network; clay, hog-tower and prairie-dog and bow competitions support two players.
 
-## Download version 1.12.4
+## Download version 1.13.0
 
-- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.4/MarshlandHunt-Setup.exe)
-- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.12.4/MarshlandHunt-Windows.zip)
-- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.12.4)
+- [Windows installer](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.13.0/MarshlandHunt-Setup.exe)
+- [Portable Windows ZIP](https://github.com/vexonastudios/huntinggame-releases/releases/download/v1.13.0/MarshlandHunt-Windows.zip)
+- [Release notes and SHA-256 files](https://github.com/vexonastudios/huntinggame-releases/releases/tag/v1.13.0)
 
 The installer works for the current Windows user without administrator access. The portable ZIP includes the game and license notices. Both launch **Critter County Hunting**. Download filenames retain `MarshlandHunt` so existing installations can update normally.
+
+## New in 1.13.0: smarter whitetails
+
+Deer now investigate suspicious movement, react sooner to running footsteps, notice downwind scent, and respond to nearby herd alarms. Watch their head and ears turn, a warning hoof stamp, and a raised tail before escape. Clearer routes, smoother turns and herd spacing make flight more convincing.
+
+Walking blends into a diagonal trot and staggered gallop with planted, terrain-following hooves. Deer slow down and watch from a safe area before feeding again. Junior retains gentler awareness; Low keeps its graphics budgets.
+
+**Update all family LAN PCs to 1.13.0.** The new deer behavior uses a new multiplayer protocol. Existing saves and records are preserved.
 
 ## New in 1.12.4: follow every bow shot
 
